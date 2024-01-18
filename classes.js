@@ -26,7 +26,7 @@ class hero {
 }
 
 
-let mago = new hero("Harry Potter",16,"mago")
+let mago = new hero("Harry Potter",17,"mago")
 let guerreiro = new hero("Marcus",46,"guerreiro")
 let monge = new hero("Bankei",30,"monge")
 let ninja = new hero("Kato",34,"ninja")
